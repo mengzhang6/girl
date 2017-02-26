@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "girl",
+    "type": "meng.springboot.moudle.GirlProperties",
+    "sourceType": "meng.springboot.moudle.GirlProperties"
+  }],
+  "properties": [
+    {
+      "name": "girl.age",
+      "type": "java.lang.Integer",
+      "sourceType": "meng.springboot.moudle.GirlProperties"
+    },
+    {
+      "name": "girl.cup-size",
+      "type": "java.lang.String",
+      "sourceType": "meng.springboot.moudle.GirlProperties"
+    }
+  ],
+  "hints": []
+}
